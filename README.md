@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=umaron&bg_color=20,fe7a4a,fe7a4a,fe7a4a,fe7a4a,ff5b52,ff4256,fe2a5c,ff1661,fe1559,df1662,d11166,ce1165,be1163,b21365,931465,751461,5e1662,5e1662&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=umaron&bg_color=20,ff9933,ff6699&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **umaron/umaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
