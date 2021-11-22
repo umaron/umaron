@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=umaron&bg_color=20,ff9933,ff6699&show_icons=true&cache_seconds=1800&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaron&count_private=true&layout=compact&bg_color=20,ff9933,ff6699)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SaltFumaron&bg_color=20,ff9933,ff6699)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **umaron/umaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
